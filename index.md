@@ -1,4 +1,3 @@
-
 ---
 title: About Me
 feature_text: |
