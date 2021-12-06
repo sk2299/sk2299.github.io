@@ -1,8 +1,10 @@
-<style>
-H2{color:DarkOrange !important;}
-</style>
 
 ---
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
 title: About Me
 feature_text: |
   ## Welcome!!
