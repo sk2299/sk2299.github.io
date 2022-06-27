@@ -10,7 +10,7 @@ excerpt: "This an academic page of Dr. Shufeng Kong."
 **Shufeng Kong, PhD**  
 Research Consultant  
 Department of Computer Science  
-Cornell University, USA  
+Cornell University, Ithaca, NY, USA  
 E-mail: sk2299@cornell.edu
 
 <!---
