@@ -1,11 +1,11 @@
 ---
 title: Home
-feature_text: | 1212
+feature_text: |
 feature_image: "https://perthisok.com/wp-content/uploads/2021/02/shutterstock_403747081.jpg.webp"
-excerpt: "This an academic page of Dr. Shufeng."
+excerpt: "This an academic page of Dr. Shufeng Kong."
 ---
 
-**Shufeng, PhD**  
+**Shufeng Kong, PhD**  
 Research Consultant  
 Department of Computer Science  
 Cornell University, Ithaca, NY, USA  
