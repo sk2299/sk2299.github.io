@@ -36,8 +36,6 @@ body {
 }
 
 .header .nav {
-  background: $headingColour;
-  color: $captionColour;
   display: flex;
   flex-direction: column-reverse;
   align-items: flex-end;
@@ -78,7 +76,7 @@ body {
   }
   &--social a {
     display: inline-block;
-    line-height: 10;
+    line-height: 1;
   }
 }
 
