@@ -11,6 +11,9 @@ Department of Computer Science
 Cornell University, Ithaca, NY, USA  
 E-mail: sk2299@cornell.edu
 
+My research area is Artificial Intelligence with a focus on large-scale constraint-based reasoning, 
+optimization, and machine learning.
+
 <!---
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %}
 {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %}
@@ -18,7 +21,7 @@ E-mail: sk2299@cornell.edu
 {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 -->
 
-## Features
+## Research Interest
 
 - Available as a **theme gem** and **GitHub Pages** theme
 - Clear and elegant design that can be used out of the box or as solid starting point
