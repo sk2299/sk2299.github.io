@@ -7,13 +7,11 @@ feature_image: "https://perthisok.com/wp-content/uploads/2021/02/shutterstock_40
 excerpt: "This an academic page of Dr. Shufeng Kong."
 ---
 
-### Shufeng Kong, PhD
+#### Shufeng Kong, PhD
 Research Consultant  
 Department of Computer Science  
-Cornell University, USA
-
-E-mail: sk2299@cornell.edu  
-___
+Cornell University, USA  
+E-mail: sk2299@cornell.edu
 
 <!---
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %}
