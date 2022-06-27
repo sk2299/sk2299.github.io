@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Home
 feature_text: |
   ## <span style="color:red">**Welcome!!!**</span>
   ### This website is currently under construction. Please visit again later.
@@ -7,9 +7,13 @@ feature_image: "https://perthisok.com/wp-content/uploads/2021/02/shutterstock_40
 excerpt: "This an academic page of Dr. Shufeng Kong."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. 
-Rather than starting from scratch, this boilerplate is designed to get rolling immediately. 
-Install it, configure it, tweak it, push it.
+### Shufeng Kong, PhD
+Research Consultant  
+Department of Computer Science  
+Cornell University, USA
+
+E-mail: sk2299@cornell.edu
+___
 
 <!---
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %}
