@@ -35,23 +35,16 @@ body {
   }
 }
 
-
-.header .nav {
+.header {
   background: $headingColour;
   color: $captionColour;
-  a {
-    color: $captionColour;
-    &:hover {
-      color: $backgroundColour;
-    }
-  }
-  .container {
-    @include flex-wrap(wrap);
-  }
-  .small {
-    padding-top: 0;
-  }
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: flex-end;
+  justify-content: flex-end;
+  overflow: hidden;
 }
+
 
 .feature {
   padding-bottom: .4rem;
