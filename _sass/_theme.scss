@@ -35,13 +35,23 @@ body {
   }
 }
 
-.header .nav {
+
+
+.header {
   background: $headingColour;
-  display: flex;
-  flex-direction: column-reverse;
-  align-items: flex-end;
-  justify-content: flex-end;
-  overflow: hidden;
+  color: $captionColour;
+  a {
+    color: $captionColour;
+    &:hover {
+      color: $backgroundColour;
+    }
+  }
+  .container {
+    @include flex-wrap(wrap);
+  }
+  .small {
+    padding-top: 0;
+  }
 }
 
 .feature {
