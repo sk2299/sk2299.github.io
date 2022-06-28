@@ -14,9 +14,9 @@ E-mail: sk2299@cornell.edu
 My research area is Artificial Intelligence (AI) with a focus on large-scale constraint-based reasoning, 
 optimization, and machine learning (ML). Existing methods often struggle to 
 scale up to large real-world problems that involve physics, hard constraints, and complex decision-making processes. 
-Therefore, the goal of my research is to advance AI to solve concrete real-world applications, focusing on large-scale 
+The goal of my research is to advance AI to solve concrete real-world applications, focusing on  
 integrating reasoning-based traditional AI and data-driven ML to address core questions in computational sustainability, 
-including fishery management optimization, species distribution modelling, and material discovery.
+including large-scale fishing portfolio optimization, species distribution modelling, and material discovery.
 
 <!---
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %}
