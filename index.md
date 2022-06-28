@@ -50,7 +50,7 @@ including large-scale fishing portfolio optimization, species distribution model
 
 ## Publications
 `*` indicates corresponding author
-- **Shufeng Kong**, Francesco Ricci, Dan Guevarra, Jeffrey B. Neaton, Carla P. Gomes, and John M. Gregoire (2022): Density of states prediction for materials discovery via contrastive learning from probabilistic embeddings. Nature Communications (Impact Factor: 14.92), 13(1)，1-12. (JCR Q1)
+- **Shufeng Kong**, Francesco Ricci, Dan Guevarra, Jeffrey B. Neaton, Carla P. Gomes, and John M. Gregoire (2022): [Density of states prediction for materials discovery via contrastive learning from probabilistic embeddings](https://www.nature.com/articles/s41467-022-28543-x). ***Nature Communications*** (Impact Factor: 14.92), 13(1)，1-12. (JCR Q1)
 
 
 <!---
