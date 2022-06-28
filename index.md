@@ -5,7 +5,7 @@ feature_image: "https://perthisok.com/wp-content/uploads/2021/02/shutterstock_40
 excerpt: "This an academic page of Dr. Shufeng Kong."
 ---
 
-**Shufeng Kong, PhD**  
+**Shufeng Kong, PhD (University of Technology Sydney, Australia)**  
 Research Consultant  
 Department of Computer Science  
 Cornell University, Ithaca, NY, USA  
