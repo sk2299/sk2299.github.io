@@ -27,7 +27,11 @@ including large-scale fishing portfolio optimization, species distribution model
 
 ## Research Interest
 
-- Available as a **theme gem** and **GitHub Pages** theme
+- Multi-label classification and multi-target regression
+- Constraint programming, probabilistic graphical model, and combinatorial optimization
+- Deep learning and reinforcement learning
+
+<!---
 - Clear and elegant design that can be used out of the box or as solid starting point
 - Tested in all major browsers, including **IE and Edge**
 - Built in **Service Worker** so it can work offline and on slow connections
@@ -42,6 +46,7 @@ including large-scale fishing portfolio optimization, species distribution model
 - Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
 - Has 9 of the most popular networks as performant sharing buttons
 - Has documentation
+-->
 
 ## Examples
 
