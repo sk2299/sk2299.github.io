@@ -51,7 +51,7 @@ including large-scale fishing portfolio optimization, species distribution model
 ## Publications
 `*` indicates corresponding author
 - **Shufeng Kong**, Francesco Ricci, Dan Guevarra, Jeffrey B. Neaton, Carla P. Gomes, and John M. Gregoire (2022): [Density of states prediction for materials discovery via contrastive learning from probabilistic embeddings](https://www.nature.com/articles/s41467-022-28543-x). ***Nature Communications*** (Impact Factor: 14.92), 13(1)，1-12. (JCR Q1)
-- Junwen Bai, **Shufeng Kong***, and Carla P. Gomes (2022): [Gaussian Mixture Variational Autoencoder with Contrastive Learning for Multi-Label Classification](https://arxiv.org/abs/2112.00976). ***In: the 39th International Conference on Machine Learning (ICML 2022)***. Accepted, to appear. (CCF A)
+- Junwen Bai, ** Shufeng Kong* **, and Carla P. Gomes (2022): [Gaussian Mixture Variational Autoencoder with Contrastive Learning for Multi-Label Classification](https://arxiv.org/abs/2112.00976). ***In: the 39th International Conference on Machine Learning (ICML 2022)***. Accepted, to appear. (CCF A)
 - Yancheng Deng, **Shufeng Kong***, and Bo An (2022): [Pretrained cost model for distributed constraint optimization problems](https://arxiv.org/abs/2112.04187). ***In: the 36th AAAI Conference on Artificial Intelligence (AAAI’22)***. Accepted, to appear. (CCF A)
 <!---
 Here are a few examples of Alembic out in the wild being used in a variety of ways:
