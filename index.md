@@ -1,7 +1,7 @@
 ---
 title: Home
 feature_text: |
-feature_image: "https://img.freepik.com/premium-photo/yachts-boats-adriatic-sea_278455-3268.jpg?w=900"
+feature_image: "https://i0.hippopx.com/photos/52/833/69/the-twelve-apostles-melbourne-australia-preview.jpg"
 excerpt: "This an academic page of Dr. Shufeng Kong."
 ---
 
