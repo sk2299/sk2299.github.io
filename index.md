@@ -1,7 +1,7 @@
 ---
 title: Home
 feature_text: |
-feature_image: "https://drive.google.com/file/d/1idAC0Vr79DU1eXsADiLPgh28inyuqgiE/view"
+feature_image: "https://mission-blue.org/wp-content/uploads/2019/04/Humpback-Whale-1.jpg"
 excerpt: "This an academic page of Dr. Shufeng Kong."
 ---
 
