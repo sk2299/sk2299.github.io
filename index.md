@@ -1,7 +1,7 @@
 ---
 title: Home
 feature_text: |
-feature_image: "https://perthisok.com/wp-content/uploads/2021/02/shutterstock_403747081.jpg.webp"
+feature_image: "https://en.wikipedia.org/wiki/Sydney#/media/File:Sydney_Opera_House_and_Harbour_Bridge_Dusk_(2)_2019-06-21.jpg"
 excerpt: "This an academic page of Dr. Shufeng Kong."
 ---
 
