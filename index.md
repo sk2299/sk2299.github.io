@@ -1,7 +1,7 @@
 ---
 title: Home
 feature_text: |
-feature_image: "https://a0.muscache.com/im/pictures/b2b3f011-d5b7-40e2-ac46-6441a8e098ee.jpg?im_w=1680"
+feature_image: "https://img.freepik.com/premium-photo/yachts-boats-adriatic-sea_278455-3268.jpg?w=900"
 excerpt: "This an academic page of Dr. Shufeng Kong."
 ---
 
