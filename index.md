@@ -1,7 +1,7 @@
 ---
 title: Home
 feature_text: |
-feature_image: "https://en.wikipedia.org/wiki/Sydney#/media/File:Sydney_Opera_House_and_Harbour_Bridge_Dusk_(2)_2019-06-21.jpg"
+feature_image: "https://drive.google.com/file/d/1idAC0Vr79DU1eXsADiLPgh28inyuqgiE/view"
 excerpt: "This an academic page of Dr. Shufeng Kong."
 ---
 
