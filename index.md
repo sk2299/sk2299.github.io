@@ -1,7 +1,7 @@
 ---
 title: Home
 feature_text: |
-feature_image: "https://i0.hippopx.com/photos/52/833/69/the-twelve-apostles-melbourne-australia-preview.jpg"
+feature_image: "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_900,c_fill,g_auto,h_506,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F181010131059-australia-best-beaches-cossies-beach-cocos3.jpg"
 excerpt: "This an academic page of Dr. Shufeng Kong."
 ---
 
