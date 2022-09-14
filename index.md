@@ -13,7 +13,7 @@ Sun Yat-sen University, Zhuhai Campus, Guangdong, P.R. China
 Research Consultant  
 Department of Computer Science  
 Cornell University, Ithaca, NY, USA  
-E-mail: sk2299@cornell.edu
+Please contact me at sk2299@cornell.edu
 
 My research area is Artificial Intelligence (AI) with a focus on large-scale constraint-based reasoning, 
 optimization, and machine learning (ML). Existing methods often struggle to
