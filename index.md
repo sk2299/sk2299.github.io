@@ -8,7 +8,7 @@ excerpt: "This an academic page of Dr. Shufeng Kong."
 **Shufeng Kong, PhD (University of Technology Sydney, Australia)**  
 Associate Professor  
 School of Software Engineering  
-Sun Yat-sen University (中山大学), Guangdong, P.R. China
+Sun Yat-sen University (中山大学), Guangdong, China
 
 Research Consultant  
 Department of Computer Science  
