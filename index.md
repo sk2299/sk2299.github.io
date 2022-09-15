@@ -8,11 +8,11 @@ excerpt: "This an academic page of Dr. Shufeng Kong."
 **Shufeng Kong, PhD (University of Technology Sydney, Australia)**  
 Associate Professor  
 School of Software Engineering  
-Sun Yat-sen University (中山大学), Zhuhai Campus, Guangdong, P.R. China
+Sun Yat-sen University (中山大学), Guangdong, P.R. China
 
 Research Consultant  
 Department of Computer Science  
-Cornell University, Ithaca Campus, NY, USA  
+Cornell University, Ithaca, NY, USA  
 **Please contact me at sk2299@cornell.edu**
 
 My research area is Artificial Intelligence (AI) with a focus on large-scale constraint-based reasoning, 
