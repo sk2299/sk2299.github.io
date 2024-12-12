@@ -6,20 +6,16 @@ excerpt: "This an academic page of Dr. Shufeng Kong."
 ---
 
 **Shufeng Kong, PhD (University of Technology Sydney, Australia)**  
-Associate Professor  
-School of Software Engineering  
-Sun Yat-sen University (中山大学), Guangdong, China
 
-Research Consultant  
+Visiting Scientist 
 Department of Computer Science  
 Cornell University, Ithaca, NY, USA  
-**Please contact me at sk2299@cornell.edu (Preferred) or kongshf@mail.sysu.edu.cn** 
+**Please contact me at sk2299@cornell.edu** 
 
-My research area is Artificial Intelligence (AI) with a focus on large-scale constraint-based reasoning, 
-optimization, and machine learning (ML). Existing methods often struggle to
+My research focus on large-scale constraint-based reasoning, optimization, and machine learning. Existing methods often struggle to
 scale up to large real-world problems that involve physics, hard constraints, and complex decision-making processes. 
-The goal of my research is to advance AI to solve concrete real-world applications, focusing on
-integrating reasoning-based traditional AI and data-driven ML to address core questions in computational sustainability, 
+The goal of my research is to solve concrete real-world applications, focusing on
+integrating reasoning-based traditional method and data-driven ML to address core questions in computational sustainability, 
 including large-scale fishing portfolio optimization, species distribution modelling, and material discovery.
 
 <!---
