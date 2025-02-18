@@ -7,7 +7,8 @@ excerpt: "This an academic page of Dr. Shufeng Kong."
 
 **Shufeng Kong, PhD (University of Technology Sydney, Australia)**  
 
-Research Scientist 
+Research Scientist
+
 Department of Computer Science  
 Cornell University, Ithaca, NY, USA  
 **Please contact me at sk2299@cornell.edu** 
